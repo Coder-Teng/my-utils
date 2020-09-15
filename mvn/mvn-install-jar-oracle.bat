@@ -1,0 +1,1 @@
+D:\Tool\apache-maven-3.6.0\bin\mvn.cmd install:install-file -Dfile=ojdbc6.jar -DgroupId=com.mine.localjar -DartifactId=oracle-driver -Dversion=1.0 -Dpackaging=jar

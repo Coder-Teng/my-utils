@@ -1,0 +1,1 @@
+D:\Tool\apache-maven-3.6.0\bin\mvn.cmd install:install-file -Dfile=jconn3.jar -DgroupId=com.mine.localjar -DartifactId=sybase-driver -Dversion=1.0 -Dpackaging=jar
